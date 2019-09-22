@@ -1,2 +1,6 @@
 # MarkdownViewer
-Local Markdown Edition with Multiple User Sync
+Local Markdown Editor with Multiple User Sync
+
+Features:
+* Markdown Editor
+* Redis Server - for local user sync
